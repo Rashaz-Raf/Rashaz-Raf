@@ -95,7 +95,18 @@
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-## 🔥 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashaz-Raf&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rashaz-Raf&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashaz-Raf&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashaz-Raf&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashaz-Raf&theme=github_dark"/>
+</p>
+
